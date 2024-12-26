@@ -72052,7 +72052,7 @@ return A.fW(A.Dq(A.X3(B.a9,new A.cW(B.ek,A.ki(this.a.c.e[b],s,s,B.x7,s),s),B.R,B
 $S:146}
 A.GT.prototype={
 N(a){var s=null,r=A.aj7(s,s,!0)
-r=new A.p7(new A.wn(B.L8,"Portfolio",r,!1,s),s,s,s,!0,B.x,s,s,s,s,B.x,B.x,s)
+r=new A.p7(new A.wn(B.L8,"MA Portfolio",r,!1,s),s,s,s,!0,B.x,s,s,s,s,B.x,B.x,s)
 A.arT(!0,"Animate.onPlay is not called when Animate.autoPlay=false")
 A.arT(!0,"Animate.onInit is not called when used with Animate.controller")
 r.as=A.a([],t.WG)
