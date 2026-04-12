@@ -77764,7 +77764,7 @@ $S:446}
 A.w3.prototype={
 ar(){return new A.OO()}}
 A.OO.prototype={
-M(a){var s=null,r=this.d,q=A.dG(A.b([B.Us,A.f_(s,B.bk,s,1,s,s,150),B.P4,B.Uo],t.p),B.ar,B.bo,B.N)
+M(a){var s=null,r=this.d,q=A.dG(A.b([B.Ut,A.f_(s,B.bk,s,1,s,s,150),B.P4,B.Up],t.p),B.ar,B.bo,B.N)
 return new A.pq(new A.af_(this),new A.wJ(q,B.bL,r,B.bH,s),B.VD)}}
 A.af_.prototype={
 $1(a){var s=this.a
@@ -77778,7 +77778,7 @@ M(a){var s=null,r=A.WJ(A.bb(B.c.X(127.5),B.bk.J()>>>16&255,B.bk.J()>>>8&255,B.bk
 return A.f_(A.FI(A.dG(A.b([B.fW,B.Uw,A.f_(s,B.cJ,s,1,s,s,180),B.d2,B.Ev,B.P5,B.Ey,B.fW],t.p),B.a0,B.bo,B.N),s,s),s,new A.fl(B.hZ,s,r,s,s,s,B.bD),s,s,s,s)}}
 A.qC.prototype={
 M(a){var s=null,r=A.Zk(s,s,B.M,s,s,s,0,s,s,s,s,s,s,s,new A.cG(A.k2(8),B.t),B.l_,s,s,s,s)
-return A.Zj(A.es(A.arX(B.bl,A.atj(this.c),0,A.hP(this.d,s,s,B.kf,s)),s,110),this.e,r)}}
+return A.Zj(A.es(A.arX(B.bl,A.atj(this.c),0,A.hP(this.d,s,s,B.kf,s)),s,120),this.e,r)}}
 A.Gy.prototype={
 M(a){var s=null
 return A.a_0(B.aa,new A.co(B.Fd,A.Lh(A.b([new A.qC("assets/icons/linkedIn.svg","Linkedin",new A.Y4(),s),B.xS,new A.qC("assets/icons/gitHub.svg","GitHub",new A.Y5(),s),B.xS,new A.qC("assets/icons/gmail.svg","Gmail",new A.Y6(),s)],t.p),B.bo,B.N),s),B.V,B.dh)}}
@@ -77807,12 +77807,12 @@ case 2:return A.O(null,r)}})
 return A.P($async$$0,r)},
 $S:10}
 A.GG.prototype={
-M(a){return A.dG(A.b([B.Ut,B.Uq,B.P7,A.hP("I'm always open to new opportunities and collaborations.\nIf you have a project in mind or just want to connect, feel free to reach out to me!",null,null,$.ayz(),B.b9)],t.p),B.a0,B.W,B.N)}}
+M(a){return A.dG(A.b([B.Uu,B.Us,B.P7,A.hP("I'm always open to new opportunities and collaborations.\nIf you have a project in mind or just want to connect, feel free to reach out to me!",null,null,$.ayz(),B.b9)],t.p),B.a0,B.W,B.N)}}
 A.Ht.prototype={}
 A.tM.prototype={
 ar(){return new A.TZ()}}
 A.TZ.prototype={
-M(a){var s=null,r=t.p,q=A.dG(A.b([B.Up,A.f_(s,B.bk,s,1,s,s,150)],r),B.a0,B.W,B.N),p=this.d,o=t.w,n=A.be(a,B.R,o).w
+M(a){var s=null,r=t.p,q=A.dG(A.b([B.Uq,A.f_(s,B.bk,s,1,s,s,150)],r),B.a0,B.W,B.N),p=this.d,o=t.w,n=A.be(a,B.R,o).w
 o=A.be(a,B.R,o).w
 $.app()
 o=A.f_(A.a1Z(s,new A.ajw(),3,B.fq,B.ac,!0),s,s,s,new A.bc(n.a.a*0.1,0,o.a.a*0.01,0),s,s)
@@ -77847,7 +77847,7 @@ M(a){var s=null
 return A.amO(!1,!0,A.Lh(A.b([A.f_(B.Bq,s,new A.fl(s,s,A.WJ(B.dz),s,s,s,B.bD),57,s,s,224),A.f_(B.FV,B.dz,s,57,s,s,68)],t.p),B.bo,B.t3),s,!0,s,s,s,s,s,s,s,s,this.c,s,s,s,s)}}
 A.GA.prototype={
 M(a){var s=null,r=t.w,q=A.be(a,B.R,r).w.a.a/30,p=A.es(s,A.be(a,B.R,r).w.a.b/50,s)
-return new A.co(new A.bc(q,0,q,0),A.dG(A.b([B.Uy,B.Uu,p,A.be(a,B.R,r).w.a.a<800?A.es(B.yu,s,A.be(a,B.R,r).w.a.a/1.2):B.yu],t.p),B.a0,B.bo,B.N),s)}}
+return new A.co(new A.bc(q,0,q,0),A.dG(A.b([B.Uy,B.Uo,p,A.be(a,B.R,r).w.a.a<800?A.es(B.yu,s,A.be(a,B.R,r).w.a.a/1.2):B.yu],t.p),B.a0,B.bo,B.N),s)}}
 A.GB.prototype={
 M(a){var s=null,r=t.w,q=A.be(a,B.R,r).w
 return A.es(A.dG(A.b([B.md,A.es(s,A.be(a,B.R,r).w.a.b/20,s),new A.Gz(new A.Ye(),s)],t.p),B.a0,B.W,B.N),s,q.a.a/2)}}
@@ -86233,22 +86233,22 @@ B.SW=new A.m(!0,B.I,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Tf=new A.m(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Qq=new A.m(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Un=new A.dy(B.S9,B.R6,B.Sa,B.SC,B.QO,B.QW,B.Rq,B.Sx,B.RC,B.SZ,B.Qi,B.QB,B.SW,B.Tf,B.Qq)
+B.Rf=new A.m(!0,B.cJ,null,"Poppins",null,null,30,B.c7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Uo=new A.e7("Flutter Developer",null,B.Rf,null,null,null,null)
 B.h_=new A.m(!0,B.cJ,null,"Poppins",null,null,30,B.c8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.yt=new A.e7("Projects",null,B.h_,null,null,null,null)
 B.Sm=new A.m(!0,B.c5,null,"Roboto",null,null,22,B.o,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Uo=new A.e7("My journey into software engineering started with a simple goal: building applications that solve real-world problems.I chose mobile development because I enjoy turning ideas into real products. As a Flutter Developer, I build complete mobile apps\u2014from clean UI to scalable architecture and API integration.I\u2019ve worked on projects involving mobile sensors, real-time features, background services, and machine learning, which shaped my focus on building reliable systems.Alongside development, I mentor and teach programming, leading teams in competitions and helping them achieve 1st place through structured problem-solving and technical guidance.",null,B.Sm,null,B.bX,20,null)
-B.Up=new A.e7("Experience",null,B.h_,null,null,null,null)
-B.TY=new A.m(!0,B.j,null,"Poppins",null,null,16,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Uq=new A.e7("Mobile App Developer",null,B.TY,null,null,null,null)
+B.Up=new A.e7("My journey into software engineering started with a simple goal: building applications that solve real-world problems.I chose mobile development because I enjoy turning ideas into real products. As a Flutter Developer, I build complete mobile apps\u2014from clean UI to scalable architecture and API integration.I\u2019ve worked on projects involving mobile sensors, real-time features, background services, and machine learning, which shaped my focus on building reliable systems.Alongside development, I mentor and teach programming, leading teams in competitions and helping them achieve 1st place through structured problem-solving and technical guidance.",null,B.Sm,null,B.bX,20,null)
+B.Uq=new A.e7("Experience",null,B.h_,null,null,null,null)
 B.kg=new A.m(!0,B.cJ,null,"Poppins",null,null,20,B.dF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Ur=new A.e7("Resume",null,B.kg,null,null,null,null)
-B.Us=new A.e7("About Me",null,B.h_,null,null,null,null)
+B.TY=new A.m(!0,B.j,null,"Poppins",null,null,16,B.L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Us=new A.e7("Flutter Developer",null,B.TY,null,null,null,null)
+B.Ut=new A.e7("About Me",null,B.h_,null,null,null,null)
 B.Ec=new A.D(1,0.8,0.8,0.8,B.i)
 B.Rg=new A.m(!0,B.Ec,null,"Poppins",null,null,16,B.c7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.yu=new A.e7("I build real-world mobile applications using Flutter, focusing on clean architecture, performance, and scalable systems.",null,B.Rg,null,null,null,null)
-B.Ut=new A.e7("Mohammed Ashraf",null,B.kg,null,null,null,null)
-B.Rf=new A.m(!0,B.cJ,null,"Poppins",null,null,30,B.c7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Uu=new A.e7("Mobile App Developer",null,B.Rf,null,null,null,null)
+B.Uu=new A.e7("Mohammed Ashraf",null,B.kg,null,null,null,null)
 B.Uw=new A.e7("Contact Me!",null,B.h_,null,null,null,null)
 B.Ux=new A.e7("<MA.dev>",null,B.kg,null,null,null,null)
 B.Uy=new A.e7("Hi, I'm Mohammed Ashraf",null,B.yo,B.b9,B.bX,2,null)
@@ -87191,7 +87191,7 @@ s($,"aSO","azZ",()=>A.auV(!0))
 s($,"aQ2","alA",()=>A.ar4())
 s($,"aQd","ayb",()=>A.b([A.td("assets/icons/flutter.svg","Flutter"),A.td("assets/icons/dart.svg","Dart"),A.td("assets/icons/java.svg","Java"),A.td("assets/icons/git.svg","GitHub"),A.td("assets/icons/firebase.svg","Firebase"),A.td("assets/icons/sqflite.svg","SQflite"),A.td("assets/icons/figma.svg","Figma")],A.a1("n<Mg>")))
 r($,"aQc","VE",()=>{var q=t.s
-return A.b([A.Kf("mobile application developed to help farmers make data-driven decisions for better agricultural outcomes. Leveraging NASA Earth Observation Data, the app provides farmers with critical insights such as soil moisture, wind speed, and temperature to optimize crop selection and predict potential agricultural risks.","assets/images/nasa.png","https://github.com/MohammedAshraf19/NASA_Farmers","NASA Farmers",A.b(["Figma","RESTful API","Cubit","Map","Animations"],q)),A.Kf("a comprehensive mobile application designed for detecting activities and falls among elderly individuals, providing timely notifications to mentors for immediate assistance. The app utilizes mobile sensors and machine learning models to achieve this functionality","assets/images/har.png","https://github.com/MohammedAshraf19/Human_Activity_Recognition","Human Activity Recognition",A.b(["Figma","RESTful API","Cubit","Socket","Sensors","Map","Responsive"],q)),A.Kf("A Flutter application where users can read books, search for books, view author information, and get suggestions for similar books. The app integrates user profiles and directs users to web-based PDFs for reading.","assets/images/book_app.jpg","https://github.com/MohammedAshraf19/Book-App","Book App",A.b(["Firebase","RESTful API","Google Auth","Cubit","Animations"],q)),A.Kf("A movie app that lets users explore films, watch trailers, view details, and search for their favorites.","assets/images/movie.jpg","https://github.com/MohammedAshraf19/MovieApp","Movie App",A.b(["Firebase","API","Cubit","Animation"],q)),A.Kf("A social app enabling users to register, log in, create posts, and chat. It supports dark/light mode, uses Cubit for state management, Firebase for authentication, and Lottie for animations.","assets/images/social.jpeg","https://github.com/MohammedAshraf19/in_media","InMedia",A.b(["Firebase","Cubit","Animation"],q))],A.a1("n<Ke>"))})
+return A.b([A.Kf("a comprehensive mobile application designed for detecting activities and falls among elderly individuals, providing timely notifications to mentors for immediate assistance. The app utilizes mobile sensors and machine learning models to achieve this functionality","assets/images/har.png","https://github.com/MohammedAshraf19/Human_Activity_Recognition","Human Activity Recognition",A.b(["Figma","RESTful API","Cubit","Socket","Sensors","Map","Responsive"],q)),A.Kf("mobile application developed to help farmers make data-driven decisions for better agricultural outcomes. Leveraging NASA Earth Observation Data, the app provides farmers with critical insights such as soil moisture, wind speed, and temperature to optimize crop selection and predict potential agricultural risks.","assets/images/nasa.png","https://github.com/MohammedAshraf19/NASA_Farmers","NASA Farmers",A.b(["Figma","RESTful API","Cubit","Map","Animations"],q)),A.Kf("A Flutter application where users can read books, search for books, view author information, and get suggestions for similar books. The app integrates user profiles and directs users to web-based PDFs for reading.","assets/images/book_app.jpg","https://github.com/MohammedAshraf19/Book-App","Book App",A.b(["Firebase","RESTful API","Google Auth","Cubit","Animations"],q)),A.Kf("A movie app that lets users explore films, watch trailers, view details, and search for their favorites.","assets/images/movie.jpg","https://github.com/MohammedAshraf19/MovieApp","Movie App",A.b(["Firebase","API","Cubit","Animation"],q)),A.Kf("A social app enabling users to register, log in, create posts, and chat. It supports dark/light mode, uses Cubit for state management, Firebase for authentication, and Lottie for animations.","assets/images/social.jpeg","https://github.com/MohammedAshraf19/in_media","InMedia",A.b(["Firebase","Cubit","Animation"],q))],A.a1("n<Ke>"))})
 s($,"aQb","app",()=>{var q=t.s
 return A.b([A.ams("assets/images/academy.jpeg","Bright Brain Academy","- Taught Programming to students aged 10\u201317, improving logical thinking and problem-solving skills.\n- Designed structured learning materials, coding exercises, and assessments.\n- Mentored teams in national and international competitions using Flutter and Python.\n- Led technical direction, system design, and implementation guidance./n- Achieved 1st place (Afro-Asian Software Competition) among 20+ teams.\n- Achieved 1st place (Technoxian Competition) among 30+ teams.","Feb 2026-Present\nAug 2024-Mar 2025","Programming Instructor & Mentor","10th of Ramadan, Egypt",B.iS),A.ams("assets/images/KAMN.jpeg","KAMN","- Built 7+ Flutter screens (auth & booking).\n- Integrated Firebase services.\n- Applied Clean Architecture and SOLID Principles.\n- Developed responsive UI.\n- Worked on payment flows.","Nov 2024 - Mar 2025","Flutter Developer Intern","Remotly",A.b([],q)),A.ams("assets/images/IEEE.jpeg","IEEE-ZSB","- Designed a full curriculum covering Dart, OOP, Flutter, and problem-solving.\n- Trained and mentored 6+ members in building Flutter apps with APIs, Firebase, and local storage.\n- Led technical workshops on advanced Flutter concepts and real-world applications.\n- Achieved 90% completion rate, increasing engagement and practical skills.","Nov 2022 - Nov 2023","Head of Mobile App Track","Hybrid",A.b([],q))],A.a1("n<Ht>"))})
 s($,"aQw","apv",()=>A.HQ(null,t.i1))
